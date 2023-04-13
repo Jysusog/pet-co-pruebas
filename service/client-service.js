@@ -48,7 +48,7 @@ const thenAgrega = (info) =>{
 const listaClientes = ()=>{
   const promise = new Promise((resolve,reject)=>{
     const http = new XMLHttpRequest();
-    http.open("GET","http://localhost:3000/perfil");
+    http.open("GET","https://my-json-server.typicode.com/jysusog/pet-co-pruebas/db");
     http.send();
     http.onload = ()=>{
     const response = JSON.parse(http.response);
