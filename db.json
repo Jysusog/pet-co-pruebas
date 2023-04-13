@@ -1,9 +1,24 @@
 {
   "perfil": [
     {
-      "nombre": "Christian",
-      "email": "Christian@alura.com",
+      "nombre": "Jesus Martinez",
+      "email": "jesusavg2317@gmail.com",
       "id": 1
+    },
+    {
+      "nombre": "agustin",
+      "email": "agustin@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "kerlvin",
+      "email": "cuernuda@gmail.com",
+      "id": 3
+    },
+    {
+      "nombre": "lul",
+      "email": "luli@gmail.com",
+      "id": 4
     }
   ]
 }
